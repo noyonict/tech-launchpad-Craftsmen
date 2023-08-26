@@ -19,3 +19,14 @@ if lower_range>upper_range:
     tmp=lower_range
     lower_range=upper_range
     upper_range=tmp
+
+# Uses a loop to go through the numbers in the given range.
+
+prime_numbers=0
+for current in range(lower_range,upper_range+1): 
+    if current==1 :
+        continue
+
+    is_prime =prime_check(current)
+    if is_prime==True:
+        prime_numbers+=1
