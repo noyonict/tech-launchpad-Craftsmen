@@ -9,3 +9,13 @@ def prime_check(number):
             return False
         
     return True
+
+# Prompts the user to enter a range (two numbers).
+
+lower_range =int(input("Enter lower range : "))
+upper_range =int(input("Enter upper range : "))
+
+if lower_range>upper_range:
+    tmp=lower_range
+    lower_range=upper_range
+    upper_range=tmp
