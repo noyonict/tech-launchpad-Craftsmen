@@ -9,6 +9,9 @@
 # git add .
 # git reset <file>
 # git commit -m "Initial Commit" <what you did>
-
+# git diff
+# example for git diff
+# git branch
+# some text added from git_class branch
 
 
