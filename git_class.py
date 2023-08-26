@@ -18,5 +18,5 @@
 # git branch -d <branch_name>
 # git push -u origin master
 # git checkout -b <branch_name>
-# git push --set-upstream origin noyon_assignment
+# git push --set-upstream origin <branch_name>
 
