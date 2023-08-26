@@ -30,3 +30,7 @@ for current in range(lower_range,upper_range+1):
     is_prime =prime_check(current)
     if is_prime==True:
         prime_numbers+=1
+
+# # Prints out all prime numbers in that range.
+
+print(prime_numbers)
