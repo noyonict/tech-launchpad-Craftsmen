@@ -8,6 +8,7 @@
 # git add -A
 # git add .
 # git reset <file>
+# git commit -m "Initial Commit" <what you did>
 
 
 
