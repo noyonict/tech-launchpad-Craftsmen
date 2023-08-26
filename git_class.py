@@ -13,5 +13,7 @@
 # example for git diff
 # git branch
 # some text added from git_class branch
+# git branch <branch_name>
+# git checkout <branch_name>
 
 
