@@ -17,5 +17,6 @@
 # git checkout <branch_name>
 # git branch -d <branch_name>
 # git push -u origin master
+# git pull
 
 
