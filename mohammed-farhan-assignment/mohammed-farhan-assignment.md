@@ -153,7 +153,7 @@
       first_number = int(input("Print the first number of your deisred range: "))
       last_number = int(input("Print the last number of your deisred range: "))
 
-      for i in range(first_number, last_number + 1):
+    for i in range(first_number, last_number + 1):
       if is_prime(i):
-      print(i)
+         print(i)
     ```
