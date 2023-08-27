@@ -36,7 +36,15 @@
 # add your solutions and commit (add and commit)
 # for adding - git add .
 # for commiting - git commit -m "useful commit message"
+# git push --set-upstream origin <your-branch-name>  // one time
 # git push
 
 # last task
 # create a pull request to master branch.
+
+# update the pr or sync with master
+# git checkout master
+# git pull
+# git checkout <yourname>_assignment
+# git merge master
+# git push
