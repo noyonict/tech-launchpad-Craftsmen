@@ -9,7 +9,8 @@ def is_prime(num1,num2):
                 list.append(number)
     return list
 
-number1 = int(input("Enter starting number: "))
-number2 = int(input("Enter ending number: "))
-result = is_prime(number1, number2)
+starting_number = int(input("Enter starting number: "))
+ending_number = int(input("Enter ending number: "))
+result = is_prime(starting_number, ending_number)
 print(result)
+

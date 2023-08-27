@@ -5,3 +5,4 @@ for number in range(2,51):
                 break
         else:
             print(number)
+
