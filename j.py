@@ -34,3 +34,4 @@ for current in range(lower_range,upper_range+1):
 # # Prints out all prime numbers in that range.
 
 print(prime_numbers)
+
