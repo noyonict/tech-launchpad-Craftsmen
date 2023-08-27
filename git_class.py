@@ -7,6 +7,7 @@
 # git add <file> ...
 # git add -A
 # git add .
+# git add -u  // add only updated files (not include any new file)
 # git reset <file>
 # git commit -m "Initial Commit" <what you did>
 # git diff
