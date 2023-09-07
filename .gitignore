@@ -3,4 +3,4 @@ main.py
 *.pyc
 .vscode
 settings.json
-
+.DS_Store
