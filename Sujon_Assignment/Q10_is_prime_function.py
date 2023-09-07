@@ -5,8 +5,12 @@ input_range = input("Enter the range of number from which you want to find out t
 while True:
     two_num = list(input_range.split("-"))
     try:
-        first_num = int(two_num[0])
-        last_num = int(two_num[1])
+        if int(two_num[0]) < int(two_num[1]):
+            first_num = int(two_num[0])
+            last_num = int(two_num[1])
+        else:
+            first_num = int(two_num[1])
+            last_num = int(two_num[0])
         break
     except:
         input_range = input("Invalid input. Please enter a range of number using dash(-) as a separator: ")
