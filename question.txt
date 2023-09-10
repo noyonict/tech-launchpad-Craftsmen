@@ -26,6 +26,10 @@ Define a function called multiply. This function should take two parameters and 
 Loop & Condition Combined:
 Write a function called count_even_numbers that takes a list of numbers and returns the count of even numbers in the list. For example, for the list [1, 2, 3, 4, 5], the function should return 2.
 
+
+
+
+
 Final Challenge – Comprehensive:
 Create a program that does the following:
 Defines a function is_prime which checks if a number is prime.
