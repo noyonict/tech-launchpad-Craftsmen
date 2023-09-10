@@ -1,3 +1,9 @@
+# 3. Conditions – Example:
+
+# Expand the above program. If the number is divisible by both 2 and 5, 
+# print "This number is divisible by 2 and 5."
+
+
 number = int(input("Enter a number: "))
 remainder_2 = number % 2
 remainder_5 = number % 5

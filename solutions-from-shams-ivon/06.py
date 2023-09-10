@@ -1,3 +1,9 @@
+# 6. For Loop and Condition:
+
+# Write a program that uses a for loop to print 
+# all the prime numbers between 2 and 50.
+
+
 for number in range(2, 51):
     is_prime = True
     for checker_number in range(2, number):

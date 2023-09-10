@@ -1,3 +1,12 @@
+# 10. Final Challenge – Comprehensive:
+
+# Create a program that does the following:
+# Defines a function is_prime which checks if a number is prime.
+# Prompts the user to enter a range (two numbers).
+# Uses a loop to go through the numbers in the given range.
+# Prints out all prime numbers in that range.
+
+
 def is_prime(number_arg):
     prime = True
     for checker_number in range(2, number_arg):
